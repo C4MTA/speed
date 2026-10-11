@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "MTA San Andreas",
+    "itens": [
+      {
+        "nome": "Multi Theft Auto 1.6 (instalador oficial)",
+        "descricao": "Cliente do MTA, gratuito. Precisa do GTA San Andreas original já instalado.",
+        "url": "https://mirror-cdn.multitheftauto.com/mtasa/main/mtasa-1.6.exe"
+      }
+    ]
+  },
+  {
+    "nome": "GTA San Andreas",
+    "itens": [
+      {
+        "nome": "Baixar o GTA San Andreas (Speed)",
+        "descricao": "O jogo original é necessário para jogar no MTA. A compra é feita na loja oficial.",
+        "url": "https://download2434.mediafire.com/ai9efd7cnxgg0DStqfgPhQVm-MwJsAxUcEHNphLK64CDPzgFEG_Bh5Akw52ILsGZeSM6zzQukJMOscyLzMYWk7vaVz-icSz9wX1TMmjWiFl3QYMp-QNYiDdYLqwM0Mt761cqm_osFws5DDvKho7S3uYObWHPSMIgPOxoK6cVFMBJ8W0/nfzrc3fujfma69m/Grand+Theft+Auto+San+Andreas.rar"
+      }
+    ]
+  }
+]

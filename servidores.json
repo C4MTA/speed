@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Speed Fugas",
+    "ip": "172.96.140.62",
+    "porta": 22003,
+    "descricao": "Fugas, guerra de gangue, desce e quebra, mundo drift e muito mais. O servidor de fuga mais completo do MTA.",
+    "tags": ["Fugas", "Drift", "PVP"],
+    "destaque": true,
+    "icone": "",
+    "banner": "",
+    "discord": "https://discord.gg/thfJE9D924",
+    "site": ""
+  }
+]

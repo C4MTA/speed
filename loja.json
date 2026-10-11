@@ -1,0 +1,32 @@
+{
+  "aviso": "Pague por Pix, envie o pedido + comprovante no Discord e o item é liberado na sua conta.",
+  "pix": {
+    "chave": "COLOQUE_SUA_CHAVE_PIX_AQUI",
+    "nome": "Nome do recebedor"
+  },
+  "discord": "https://discord.gg/thfJE9D924",
+  "itens": [
+    {
+      "id": "dinheiro",
+      "qtd": 50000,
+      "nome": "R$ 50.000 no jogo",
+      "descricao": "Exemplo. O id \"dinheiro\" já vem pronto no gamemode.",
+      "preco": "R$ 5,00",
+      "categoria": "Dinheiro",
+      "imagem": "",
+      "destaque": true,
+      "esgotado": false
+    },
+    {
+      "id": "colete",
+      "qtd": 1,
+      "nome": "Colete",
+      "descricao": "Exemplo. O id \"colete\" já vem pronto no gamemode.",
+      "preco": "R$ 2,00",
+      "categoria": "Itens",
+      "imagem": "",
+      "destaque": false,
+      "esgotado": false
+    }
+  ]
+}
